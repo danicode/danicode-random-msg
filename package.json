@@ -14,7 +14,15 @@
   "author": "Daniel Anzawa <danielanzawa@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danicode/danicode-random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danicode/danicode-random-msg/issues"
+  },
+  "homepage": "https://github.com/danicode/danicode-random-msg#readme"
 }
